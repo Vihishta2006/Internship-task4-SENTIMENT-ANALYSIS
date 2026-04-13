@@ -36,6 +36,6 @@ This task is very useful in many real-world applications. For example, companies
 In simple words, this task shows how computers can understand human emotions from text. It converts unstructured text data into meaningful insights. Instead of manually reading thousands of reviews, this method can quickly analyze and summarize the overall sentiment.
 Overall, this task is an important step in learning Natural Language Processing (NLP). It helps in understanding how text data can be processed and analyzed using machine learning tools. It also shows how results can be visualized to make them easy to understand for everyone.
 
-*OUTPUT
+*OUTPUT*
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/a618e5e6-281a-4752-9fa7-4aeff71ea610" />
